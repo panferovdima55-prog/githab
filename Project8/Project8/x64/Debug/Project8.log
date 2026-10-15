@@ -1,0 +1,8 @@
+﻿  FileName.cpp
+C:\Users\user1\source\repos\Project8\FileName.cpp(60,11): error C2535: NPC::~NPC(void): функция-член уже определена или объявлена
+      C:\Users\user1\source\repos\Project8\FileName.cpp(36,3):
+       см. объявление "NPC::~NPC"
+  
+C:\Users\user1\source\repos\Project8\FileName.cpp(70,16): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\user1\source\repos\Project8\FileName.cpp(71,16): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\user1\source\repos\Project8\FileName.cpp(72,15): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
